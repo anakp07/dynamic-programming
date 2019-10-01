@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-Dynamic programming is a st
+Dynamic programming is a strategy for developing an algorithm where each subproblem is solved and the results recorded for use in solving larger problems.  In this exercise you will write a pair of dynamic programming methods.
 
 ## Wave 1 Newman-Conway Sequence
 
@@ -25,6 +25,4 @@ Input : 20
 Output : 1 1 2 2 3 4 4 4 5 6 7 7 8 8 8 8 9 10 11 12
 ```
 
-You should be able to do this in O(n) time complexity.
-
-## 
+You should be able to do this in O(n) time complexity.  There is also a subtle divide-and-conquer solution as well.
